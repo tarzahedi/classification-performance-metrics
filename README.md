@@ -1,6 +1,7 @@
-# performance-metrics
+# Classification Performance Metrics
 
 ## Overview
+
 This project uses **Logistic Regression** to classify data. It shows how to preprocess data, tune the model, and evaluate it using different performance metrics beyond just accuracy.
 
 ## Why Different Metrics Matter
@@ -21,3 +22,4 @@ source env/bin/activate  # macOS/Linux
 # or
 env\Scripts\activate     # Windows
 pip install -r requirements.txt
+```
