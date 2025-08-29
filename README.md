@@ -11,6 +11,7 @@ This project uses **Logistic Regression** to classify data. It shows how to prep
 - **Recall** matters when missing positives is dangerous (e.g., failing to detect a disease).
 - **F1-score** balances precision and recall when both false positives and false negatives are important.
 
+It's important to understand the difference between different metrics and know how to interpret them.
 
 ## Installation
 
